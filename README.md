@@ -11,6 +11,12 @@ A React Product Dashboard built using Material UI and FakeStore API.
 * Material UI Design
 * Responsive Product Cards
 
+## Screenshots
+
+![Home Page](./Screenshots/home.png)
+
+![Category Filter](./Screenshots/filter.png)
+
 ## Tech Stack
 
 * React
